@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Space-air-ground-ocean Integrated Network Security</title>
+  <icon>https://www.gravatar.com/avatar/77d80eb270a7f3f855b76f1e4e12def0</icon>
+  <subtitle>空天地海一体化网络安全</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-11-03T03:41:43.219Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>曹春杰</name>
+    <email>hnusagolab@163.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Space-air-ground-ocean Integrated Network Security Launched at Hainan University</title>
+    <link href="http://example.com/2015/01/01/20150101/"/>
+    <id>http://example.com/2015/01/01/20150101/</id>
+    <published>2014-12-31T16:00:00.000Z</published>
+    <updated>2024-11-03T03:41:43.219Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
