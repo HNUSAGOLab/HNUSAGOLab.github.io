@@ -3375,6 +3375,7 @@ h1.page-title + .tag-cloud-list {
   width: 100%;
 }
 #page-header #site-title,
+#page-header #site-title1,
 #page-header #site-subtitle,
 #page-header #scroll-down .scroll-down-effects {
   text-align: center;
@@ -3391,13 +3392,23 @@ h1.page-title + .tag-cloud-list {
     font-size: 3.15em;
   }
 }
+#page-header #site-title1 {
+  margin: 0;
+  color: var(--white);
+  font-size: 2.15em;
+}
+@media screen and (min-width: 768px) {
+  #page-header #site-title1 {
+    font-size: 3.15em;
+  }
+}
 #page-header #site-subtitle {
   color: var(--white);
   font-size: 1.05em;
 }
 @media screen and (min-width: 768px) {
   #page-header #site-subtitle {
-    font-size: 1.4em;
+    font-size: 3.15em;
   }
 }
 #page-header #site_social_icons {
