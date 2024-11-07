@@ -1,4 +1,4 @@
-http://example.com/students/index.html
+http://example.com/people/index.html
 http://example.com/2024/11/06/wuxian/
 http://example.com/2024/11/06/qukuolian/
 http://example.com/2024/11/06/ai/
